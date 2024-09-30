@@ -25,4 +25,4 @@ Let's hire me and working together to making an impact.
 <hr>
 
 ![agunglakss's GitHub stats](https://github-readme-stats.vercel.app/api?username=agunglakss&count_private=true&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunglakss&layout=compact)](https://github.com/agunglakss/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agunglakss&layout=compact&theme=transparent)](https://github.com/agunglakss/)
